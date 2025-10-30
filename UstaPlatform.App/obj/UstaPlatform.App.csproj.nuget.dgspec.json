@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj",
+        "projectName": "UstaPlatform.Application",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj"
+              },
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+        "projectName": "UstaPlatform.App",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj"
+              },
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj"
+              },
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj"
+              },
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\UstaPlatform.Pricing.Rules.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\UstaPlatform.Pricing.Rules.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+        "projectName": "UstaPlatform.Domain",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+        "projectName": "UstaPlatform.Infrastructure",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\UstaPlatform.Pricing.Rules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\UstaPlatform.Pricing.Rules.csproj",
+        "projectName": "UstaPlatform.Pricing.Rules",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\UstaPlatform.Pricing.Rules.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Pricing.Rules\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Masaüstü\\pc programlama ders\\programlar\\C#\\UstaPlatform\\UstaPlatform\\UstaPlatform.Application\\UstaPlatform.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

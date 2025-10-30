@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.Domain", "UstaPlatform.Domain\UstaPlatform.Domain.csproj", "{43F157FD-BF19-40A0-A6A1-F088303921BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.Infrastructure", "UstaPlatform.Infrastructure\UstaPlatform.Infrastructure.csproj", "{C2A90F39-61DB-4190-91B9-E098DA7DBC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.Pricing.Rules", "UstaPlatform.Pricing.Rules\UstaPlatform.Pricing.Rules.csproj", "{68756682-392C-4BF1-9B51-A8B550D0BFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.App", "UstaPlatform.App\UstaPlatform.App.csproj", "{8B6B7573-B79C-4004-A7EA-74E4951E2324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.Application", "UstaPlatform.Application\UstaPlatform.Application.csproj", "{7E7DD7E4-96F8-471F-9441-19293BB12B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstaPlatform.Plugins.LoyaltyRule", "UstaPlatform.Plugins.LoyaltyRule\UstaPlatform.Plugins.LoyaltyRule.csproj", "{6AEB67B8-7FAC-458E-AA42-037B9A6DFEC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F157FD-BF19-40A0-A6A1-F088303921BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F157FD-BF19-40A0-A6A1-F088303921BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F157FD-BF19-40A0-A6A1-F088303921BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F157FD-BF19-40A0-A6A1-F088303921BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A90F39-61DB-4190-91B9-E098DA7DBC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A90F39-61DB-4190-91B9-E098DA7DBC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A90F39-61DB-4190-91B9-E098DA7DBC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A90F39-61DB-4190-91B9-E098DA7DBC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68756682-392C-4BF1-9B51-A8B550D0BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68756682-392C-4BF1-9B51-A8B550D0BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68756682-392C-4BF1-9B51-A8B550D0BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68756682-392C-4BF1-9B51-A8B550D0BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6B7573-B79C-4004-A7EA-74E4951E2324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6B7573-B79C-4004-A7EA-74E4951E2324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6B7573-B79C-4004-A7EA-74E4951E2324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6B7573-B79C-4004-A7EA-74E4951E2324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7DD7E4-96F8-471F-9441-19293BB12B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7DD7E4-96F8-471F-9441-19293BB12B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7DD7E4-96F8-471F-9441-19293BB12B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7DD7E4-96F8-471F-9441-19293BB12B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEB67B8-7FAC-458E-AA42-037B9A6DFEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB67B8-7FAC-458E-AA42-037B9A6DFEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEB67B8-7FAC-458E-AA42-037B9A6DFEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB67B8-7FAC-458E-AA42-037B9A6DFEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF12232D-F797-494F-AFD7-9ECCE7F5F1B4}
+	EndGlobalSection
+EndGlobal

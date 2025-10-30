@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UstaPlatform.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UstaPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UstaPlatform.Infrastructure.dll": {}
+        }
+      },
+      "UstaPlatform.Domain/1.0.0": {
+        "runtime": {
+          "UstaPlatform.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UstaPlatform.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UstaPlatform.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
