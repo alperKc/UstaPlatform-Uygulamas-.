@@ -83,4 +83,4 @@ Projenin kalbi, ana uygulama kodunu değiştirmeden sisteme yeni fiyat kurallar�
 
 ## 3. Kısa Demo Akışı (Çıktı)
 
-Aşağıdaki çıktı, hem varsayılan kuralların (Haftasonu, Acil) hem de `Plugins` klasöründen dinamik olarak yüklenen `Kademeli Sadakat İndirimi Kuralı`'nın başarıyla çalıştığını göstermektedir.
+<img width="945" height="557" alt="Ekran görüntüsü 2025-10-30 044757" src="https://github.com/user-attachments/assets/a4f0f955-f666-427b-8765-9d2407d07279" />
