@@ -1,0 +1,13 @@
+# Visual Studio C# ve .NET Core için standart .gitignore
+
+## Derleme Çıktıları (En Önemlileri)
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio IDE
+.vs/
+*.user
+*.suo
+
+## Test Sonuçları
+TestResults/
